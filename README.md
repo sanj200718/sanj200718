@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Cherukuri Sanjana 👋
 
-<!--
-**sanj200718/sanj200718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  CSE (AI & ML) Student  
+First-year engineering student learning programming, AI/ML basics, and building simple web projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Learning
+- Python    
+- Git & GitHub  
+- Basic Flask  
+
+---
+
+##  What I'm Currently Focusing On
+- Learning Python and data structures  
+- Understanding AI/ML foundations  
+- Improving web development skills  
+- Building small, meaningful projects
+
+---
+
+##  Connect with Me  
+ Email:chrkrsanjana18@gmail.com   
+
+---
+
+### “Small progress every day leads to big results.”
