@@ -1,14 +1,18 @@
 # Hi, I'm Cherukuri Sanjana 👋
 
 ###  CSE (AI & ML) Student  
-First-year engineering student learning programming, AI/ML basics, and building simple web projects.
+Second-year engineering student learning programming, AI/ML basics,cloud computing and building simple web projects.
 
 ---
 
 ## Skills I'm Learning
 - Python    
 - Git & GitHub  
-- Basic Flask  
+- Basic Flask
+- c/c++
+- java
+- operating systems
+- DSA
 
 ---
 
